@@ -1,2 +1,2 @@
 # gmxkit
-An 
+A gromacs trajectory analysis script
